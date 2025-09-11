@@ -1,25 +1,25 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Packages/manifest.json
+    m_FilePath: C:/Users/xxsta/UnityAppsRep/csc461-a1/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638929461570000000
-    m_Hash: 3045218232
+      ticks: 638931964884153459
+    m_Hash: 2268076470
   m_LockFileStatus:
-    m_FilePath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Packages/packages-lock.json
+    m_FilePath: C:/Users/xxsta/UnityAppsRep/csc461-a1/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638929461570000000
-    m_Hash: 1680599090
+      ticks: 638931964884214047
+    m_Hash: 1904357066
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Packages
+m_ProjectPath: C:/Users/xxsta/UnityAppsRep/csc461-a1/Packages
 m_EditorVersion: 2022.3.43f1 (85497d293fa1)
 m_ResolvedPackages:
 - packageId: com.unity.cinemachine@2.10.1
@@ -27,7 +27,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.10.1
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.cinemachine@2.10.1
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.cinemachine@2.10.1
   assetPath: Packages/com.unity.cinemachine
   name: com.unity.cinemachine
   displayName: Cinemachine
@@ -36,7 +36,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: cinematography
-  type: 
+  type: assets
   description: "Smart camera tools for passionate creators. \n\nNew starting from
     2.7.1: Are you looking for the Cinemachine menu? It has moved to the GameObject
     menu.\n\nIMPORTANT NOTE: If you are upgrading from the legacy Asset Store version
@@ -46,10 +46,108 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 2.1.11-beta.1
+    - 2.1.12
+    - 2.1.13
+    - 2.2.0
+    - 2.2.7
+    - 2.2.8
+    - 2.2.9
+    - 2.2.10-preview.3
+    - 2.2.10-preview.4
+    - 2.3.1
+    - 2.3.3
+    - 2.3.4
+    - 2.3.5-preview.3
+    - 2.4.0-preview.3
+    - 2.4.0-preview.4
+    - 2.4.0-preview.6
+    - 2.4.0-preview.7
+    - 2.4.0-preview.8
+    - 2.4.0-preview.9
+    - 2.4.0-preview.10
+    - 2.4.0
+    - 2.5.0
+    - 2.6.0-preview.2
+    - 2.6.0-preview.3
+    - 2.6.0-preview.5
+    - 2.6.0-preview.8
+    - 2.6.0
+    - 2.6.1-preview.6
+    - 2.6.1
+    - 2.6.2-preview.1
+    - 2.6.2
+    - 2.6.3-preview.2
+    - 2.6.3
+    - 2.6.4
+    - 2.6.5
+    - 2.6.9
+    - 2.6.10
+    - 2.6.11
+    - 2.6.14
+    - 2.6.15
+    - 2.6.17
+    - 2.7.1
+    - 2.7.2
+    - 2.7.3
+    - 2.7.4
+    - 2.7.5
+    - 2.7.8
+    - 2.7.9
+    - 2.8.0-exp.1
+    - 2.8.0-exp.2
+    - 2.8.0-pre.1
+    - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.8.3
+    - 2.8.4
+    - 2.8.6
+    - 2.8.9
+    - 2.9.0-pre.1
+    - 2.9.0-pre.6
+    - 2.9.1
+    - 2.9.2
+    - 2.9.4
+    - 2.9.5
+    - 2.9.7
+    - 2.10.0
     - 2.10.1
+    - 2.10.2
+    - 2.10.3
+    - 2.10.4
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 3.0.0-pre.5
+    - 3.0.0-pre.6
+    - 3.0.0-pre.7
+    - 3.0.0-pre.8
+    - 3.0.0-pre.9
+    - 3.0.1
+    - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 3.1.3
+    - 3.1.4
     compatible:
     - 2.10.1
-    recommended: 2.10.1
+    - 2.10.2
+    - 2.10.3
+    - 2.10.4
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 3.0.0-pre.5
+    - 3.0.0-pre.6
+    - 3.0.0-pre.7
+    - 3.0.0-pre.8
+    - 3.0.0-pre.9
+    - 3.0.1
+    - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 3.1.3
+    - 3.1.4
+    recommended: 2.10.4
     deprecated: []
   dependencies:
   - name: com.unity.test-framework
@@ -96,7 +194,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 638551642370000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.cinemachine@2.10/manual/index.html
   hasRepository: 1
   repository:
@@ -118,7 +216,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.9.3
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.collab-proxy@2.9.3
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.collab-proxy@2.9.3
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Unity Version Control
@@ -280,7 +378,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.feature.characters-animation@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.feature.characters-animation@1.0.0
   assetPath: Packages/com.unity.feature.characters-animation
   name: com.unity.feature.characters-animation
   displayName: 3D Characters and Animation
@@ -387,7 +485,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.1
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.feature.development@1.0.1
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.feature.development@1.0.1
   assetPath: Packages/com.unity.feature.development
   name: com.unity.feature.development
   displayName: Engineering
@@ -481,7 +579,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.0
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.inputsystem@1.7.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.inputsystem@1.7.0
   assetPath: Packages/com.unity.inputsystem
   name: com.unity.inputsystem
   displayName: Input System
@@ -490,16 +588,88 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: assets
   description: A new input system which can be used as a more extensible and customizable
     alternative to Unity's classic input system in UnityEngine.Input.
   status: 0
   errors: []
   versions:
     all:
+    - 0.1.2-preview
+    - 0.2.0-preview
+    - 0.2.1-preview
+    - 0.2.6-preview
+    - 0.2.8-preview
+    - 0.2.10-preview
+    - 0.9.0-preview
+    - 0.9.1-preview
+    - 0.9.2-preview
+    - 0.9.3-preview
+    - 0.9.4-preview
+    - 0.9.5-preview
+    - 0.9.6-preview
+    - 1.0.0-preview
+    - 1.0.0-preview.1
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.0.0-preview.5
+    - 1.0.0-preview.6
+    - 1.0.0-preview.7
+    - 1.0.0
+    - 1.0.1
+    - 1.0.2
+    - 1.1.0-pre.5
+    - 1.1.0-pre.6
+    - 1.1.0-preview.1
+    - 1.1.0-preview.2
+    - 1.1.0-preview.3
+    - 1.1.1
+    - 1.2.0
+    - 1.3.0
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.4.4
+    - 1.5.0
+    - 1.5.1
+    - 1.6.1
+    - 1.6.3
     - 1.7.0
+    - 1.8.0-pre.1
+    - 1.8.0-pre.2
+    - 1.8.0
+    - 1.8.1
+    - 1.8.2
+    - 1.9.0
+    - 1.10.0
+    - 1.11.0
+    - 1.11.1
+    - 1.11.2
+    - 1.12.0
+    - 1.13.0
+    - 1.13.1
+    - 1.14.0
+    - 1.14.1
+    - 1.14.2
     compatible:
     - 1.7.0
+    - 1.8.0-pre.1
+    - 1.8.0-pre.2
+    - 1.8.0
+    - 1.8.1
+    - 1.8.2
+    - 1.9.0
+    - 1.10.0
+    - 1.11.0
+    - 1.11.1
+    - 1.11.2
+    - 1.12.0
+    - 1.13.0
+    - 1.13.1
+    - 1.14.0
+    - 1.14.1
+    - 1.14.2
     recommended: 1.7.0
     deprecated: []
   dependencies:
@@ -533,7 +703,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 638277060810000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.inputsystem@1.7/manual/index.html
   hasRepository: 1
   repository:
@@ -555,7 +725,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 14.0.11
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.render-pipelines.universal@14.0.11
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.render-pipelines.universal@14.0.11
   assetPath: Packages/com.unity.render-pipelines.universal
   name: com.unity.render-pipelines.universal
   displayName: Universal RP
@@ -573,6 +743,51 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 7.0.0
+    - 7.0.1
+    - 7.1.1
+    - 7.1.2
+    - 7.1.5
+    - 7.1.6
+    - 7.1.7
+    - 7.1.8
+    - 7.2.0
+    - 7.2.1
+    - 7.3.1
+    - 7.4.1
+    - 7.4.2
+    - 7.4.3
+    - 7.5.1
+    - 7.5.2
+    - 7.5.3
+    - 7.6.0
+    - 7.7.0
+    - 7.7.1
+    - 8.0.1
+    - 8.1.0
+    - 8.2.0
+    - 8.3.1
+    - 9.0.0-preview.14
+    - 9.0.0-preview.35
+    - 9.0.0-preview.55
+    - 9.0.0-preview.72
+    - 10.0.0-preview.26
+    - 10.1.0
+    - 10.2.0
+    - 10.2.1
+    - 10.2.2
+    - 10.3.1
+    - 10.3.2
+    - 10.4.0
+    - 10.5.0
+    - 10.5.1
+    - 10.6.0
+    - 10.7.0
+    - 10.8.0
+    - 10.8.1
+    - 10.9.0
+    - 10.10.0
+    - 10.10.1
     - 14.0.11
     compatible:
     - 14.0.11
@@ -653,7 +868,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -855,7 +1070,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.6
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.timeline@1.7.6
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.timeline@1.7.6
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1031,7 +1246,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.ugui@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1107,7 +1322,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.9.4
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.visualscripting@1.9.4
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.visualscripting@1.9.4
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1209,12 +1424,514 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
+- packageId: com.unity.xr.interaction.toolkit@2.6.4
+  testable: 0
+  isDirectDependency: 1
+  version: 2.6.4
+  source: 1
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.xr.interaction.toolkit@2.6.4
+  assetPath: Packages/com.unity.xr.interaction.toolkit
+  name: com.unity.xr.interaction.toolkit
+  displayName: XR Interaction Toolkit
+  author:
+    name: 
+    email: 
+    url: 
+  category: XR
+  type: 
+  description: A high-level, component-based, interaction system for creating VR
+    and AR experiences. It provides a framework that makes 3D and UI interactions
+    available from Unity input events. The core of this system is a set of base Interactor
+    and Interactable components, and an Interaction Manager that ties these two types
+    of components together. It also contains components that you can use for locomotion
+    and drawing visuals.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.0.6-preview
+    - 0.9.0-preview
+    - 0.9.1-preview
+    - 0.9.2-preview
+    - 0.9.3-preview
+    - 0.9.4-preview
+    - 0.10.0-preview.7
+    - 1.0.0-pre.1
+    - 1.0.0-pre.2
+    - 1.0.0-pre.3
+    - 1.0.0-pre.4
+    - 1.0.0-pre.5
+    - 1.0.0-pre.6
+    - 1.0.0-pre.8
+    - 2.0.0-pre.5
+    - 2.0.0-pre.6
+    - 2.0.0-pre.7
+    - 2.0.0
+    - 2.0.1
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.1.0-pre.1
+    - 2.1.1
+    - 2.2.0
+    - 2.3.0-pre.1
+    - 2.3.0
+    - 2.3.1
+    - 2.3.2
+    - 2.4.0-pre.1
+    - 2.4.0-pre.2
+    - 2.4.0
+    - 2.4.1
+    - 2.4.3
+    - 2.5.0
+    - 2.5.1
+    - 2.5.2
+    - 2.5.3
+    - 2.5.4
+    - 2.6.3
+    - 2.6.4
+    - 3.0.0-pre.1
+    - 3.0.0-pre.2
+    - 3.0.0
+    - 3.0.1
+    - 3.0.3
+    - 3.0.4
+    - 3.0.5
+    - 3.0.6
+    - 3.0.7
+    - 3.0.8
+    - 3.1.0-pre.1
+    - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 3.2.0-pre.1
+    - 3.2.0
+    - 3.2.1
+    - 3.3.0-pre.1
+    compatible:
+    - 2.6.3
+    - 2.6.4
+    - 3.0.0-pre.1
+    - 3.0.0-pre.2
+    - 3.0.0
+    - 3.0.1
+    - 3.0.3
+    - 3.0.4
+    - 3.0.5
+    - 3.0.6
+    - 3.0.7
+    - 3.0.8
+    - 3.1.0-pre.1
+    - 3.1.0
+    - 3.1.1
+    - 3.1.2
+    - 3.2.0-pre.1
+    - 3.2.0
+    - 3.2.1
+    - 3.3.0-pre.1
+    recommended: 2.6.4
+    deprecated: []
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.inputsystem
+    version: 1.7.0
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.xr.core-utils
+    version: 2.2.3
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.xr.legacyinputhelpers
+    version: 2.1.10
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.inputsystem
+    version: 1.7.0
+  - name: com.unity.modules.uielements
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.mathematics
+    version: 1.2.6
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.xr.core-utils
+    version: 2.3.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  - name: com.unity.xr.legacyinputhelpers
+    version: 2.1.11
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  keywords:
+  - XR
+  - VR
+  - toolkit
+  - interaction
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638747912895750000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.6/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.xr.interaction.toolkit.git
+    revision: 9f99aa3cc97e4004d9035881c526bebab5f33c36
+    path: 
+  unityLifecycle:
+    version: 2.6.3
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  fingerprint: 
+- packageId: com.unity.xr.management@4.5.1
+  testable: 0
+  isDirectDependency: 1
+  version: 4.5.1
+  source: 1
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.xr.management@4.5.1
+  assetPath: Packages/com.unity.xr.management
+  name: com.unity.xr.management
+  displayName: XR Plugin Management
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Package that provides simple management of XR plug-ins. Manages and
+    offers help with loading, initialization, settings, and build support for XR
+    plug-ins.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.8
+    - 0.1.0-preview.12
+    - 1.0.0-preview.2
+    - 2.0.0-preview.3
+    - 2.0.0-preview.6
+    - 2.0.0-preview.9
+    - 2.0.0-preview.10
+    - 2.0.0-preview.13
+    - 2.0.0-preview.21
+    - 2.0.0-preview.22
+    - 2.0.0-preview.24
+    - 2.0.0-preview.25
+    - 2.0.0-preview.26
+    - 3.0.1
+    - 3.0.2-preview.1
+    - 3.0.2-preview.2
+    - 3.0.3
+    - 3.0.4-preview.1
+    - 3.0.4-preview.3
+    - 3.0.4
+    - 3.0.5-preview.1
+    - 3.0.5
+    - 3.0.6-preview.2
+    - 3.0.6
+    - 3.1.0-preview.2
+    - 3.2.4
+    - 3.2.6
+    - 3.2.7
+    - 3.2.9
+    - 3.2.10
+    - 3.2.11-preview.1
+    - 3.2.12
+    - 3.2.13
+    - 3.2.15
+    - 3.2.16
+    - 3.2.17
+    - 4.0.0-exp.2
+    - 4.0.0-pre.2
+    - 4.0.0-pre.3
+    - 4.0.1
+    - 4.0.3
+    - 4.0.5
+    - 4.0.6
+    - 4.0.7
+    - 4.1.0-pre.1
+    - 4.1.0-pre.2
+    - 4.1.0
+    - 4.2.0
+    - 4.2.1
+    - 4.3.1
+    - 4.3.3
+    - 4.4.0
+    - 4.4.1
+    - 4.5.0
+    - 4.5.1
+    compatible:
+    - 4.4.0
+    - 4.4.1
+    - 4.5.0
+    - 4.5.1
+    recommended: 4.5.1
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.xr.core-utils
+    version: 2.2.1
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  - name: com.unity.xr.legacyinputhelpers
+    version: 2.1.11
+  resolvedDependencies:
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  - name: com.unity.xr.core-utils
+    version: 2.3.0
+  - name: com.unity.xr.legacyinputhelpers
+    version: 2.1.11
+  keywords:
+  - xr
+  - sdk
+  - ar
+  - vr
+  - management
+  - build
+  - plugin
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638785987307450000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.management@4.5/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/xr.sdk.management.git
+    revision: 0fe78d9177c9f96352ea5d06283c26e42f9ed490
+    path: 
+  unityLifecycle:
+    version: 4.4.0
+    nextVersion: 
+    recommendedVersion: 4.5.0
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  fingerprint: 
+- packageId: com.unity.xr.oculus@4.2.0
+  testable: 0
+  isDirectDependency: 1
+  version: 4.2.0
+  source: 1
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.xr.oculus@4.2.0
+  assetPath: Packages/com.unity.xr.oculus
+  name: com.unity.xr.oculus
+  displayName: Oculus XR Plugin
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: Provides display and input support for Oculus devices.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.0.9-preview
+    - 0.1.2-preview.1
+    - 0.8.4-preview
+    - 1.0.0-preview.4
+    - 1.0.0
+    - 1.0.2
+    - 1.0.3-preview.1
+    - 1.1.0-preview
+    - 1.1.0
+    - 1.1.1
+    - 1.1.2-preview
+    - 1.1.2
+    - 1.1.3-preview
+    - 1.1.3-preview.1
+    - 1.1.4-preview
+    - 1.1.4-preview.1
+    - 1.1.4
+    - 1.1.5-preview
+    - 1.1.5
+    - 1.2.0-preview.1
+    - 1.2.0
+    - 1.3.1
+    - 1.3.3
+    - 1.3.4
+    - 1.4.0-preview.1
+    - 1.4.0-preview.2
+    - 1.4.0
+    - 1.4.3
+    - 1.5.0
+    - 1.5.1
+    - 1.6.0-preview.1
+    - 1.6.0-preview.2
+    - 1.6.1
+    - 1.7.0-preview.1
+    - 1.7.0-preview.2
+    - 1.7.0
+    - 1.8.1
+    - 1.9.0-preview.1
+    - 1.9.0
+    - 1.9.1
+    - 1.10.0-preview.1
+    - 1.10.0-preview.2
+    - 1.10.0
+    - 1.10.1-preview.3
+    - 1.11.0
+    - 1.11.2
+    - 1.12.0
+    - 1.12.1
+    - 1.13.0
+    - 1.13.1-preview.1
+    - 1.13.1-preview.2
+    - 1.13.1
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0-preview.4
+    - 2.0.0-preview.5
+    - 2.0.2-preview.1
+    - 2.2.0-preview.1
+    - 2.2.3-preview.1
+    - 2.2.3-preview.2
+    - 3.0.0-pre.1
+    - 3.0.0-pre.2
+    - 3.0.0-pre.4
+    - 3.0.0
+    - 3.0.1
+    - 3.0.2
+    - 3.1.1
+    - 3.2.1
+    - 3.2.2-pre.1
+    - 3.2.2
+    - 3.2.3-pre.1
+    - 3.2.3
+    - 3.3.0
+    - 3.4.0
+    - 3.4.1
+    - 4.0.0
+    - 4.1.1
+    - 4.1.2
+    - 4.2.0-exp-env-depth.1
+    - 4.2.0-exp-env-depth.2
+    - 4.2.0
+    - 4.3.0-pre.1
+    - 4.3.0
+    - 4.4.0
+    - 4.5.0
+    - 4.5.1
+    - 4.5.2
+    compatible:
+    - 4.2.0
+    - 4.3.0-pre.1
+    - 4.3.0
+    - 4.4.0
+    - 4.5.0
+    - 4.5.1
+    - 4.5.2
+    recommended: 4.2.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.xr.management
+    version: 4.4.0
+  resolvedDependencies:
+  - name: com.unity.xr.management
+    version: 4.5.1
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  - name: com.unity.xr.core-utils
+    version: 2.3.0
+  - name: com.unity.xr.legacyinputhelpers
+    version: 2.1.11
+  keywords:
+  - oculus
+  - xr
+  - vr
+  - virtual
+  - rift
+  - quest
+  - xreditorsubsystem
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638430747650000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.oculus@4.2/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/xr.sdk.oculus.git
+    revision: a87e6a4842f6c06d6b8a576c83caec99c5fc3e60
+    path: 
+  unityLifecycle:
+    version: 4.2.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  fingerprint: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1270,7 +1987,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1325,7 +2042,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1381,7 +2098,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1437,7 +2154,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1493,7 +2210,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1553,7 +2270,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.director@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1617,7 +2334,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1674,7 +2391,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1730,7 +2447,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1786,7 +2503,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -1842,7 +2559,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -1898,7 +2615,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -1954,7 +2671,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2014,7 +2731,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2070,7 +2787,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2134,7 +2851,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2193,7 +2910,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2249,7 +2966,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2317,7 +3034,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2373,7 +3090,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2437,7 +3154,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2493,7 +3210,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2557,7 +3274,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2621,7 +3338,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2685,7 +3402,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2765,7 +3482,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -2825,7 +3542,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.video@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -2893,7 +3610,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -2963,7 +3680,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3019,7 +3736,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3087,7 +3804,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3142,12 +3859,198 @@ m_ResolvedPackages:
   isDeprecated: 0
   deprecationMessage: 
   fingerprint: 
+- packageId: com.unity.xr.core-utils@2.3.0
+  testable: 0
+  isDirectDependency: 0
+  version: 2.3.0
+  source: 1
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.xr.core-utils@2.3.0
+  assetPath: Packages/com.unity.xr.core-utils
+  name: com.unity.xr.core-utils
+  displayName: XR Core Utilities
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: "Common utility classes for XR projects\nRefer to API documentation
+    for details. Some particularly useful utilities include:\n\u25AA Geometry Utilities\n 
+    \u25AA Point of closest approach\n  \u25AA Closest edge of a polygon\n  \u25AA
+    Check if point inside of polygon\n  \u25AA Compute 2D convex hull\n\u25AA Collection
+    pool\n\u25AA Math Utilities\n  \u25AA Bounds extensions\n  \u25AA Quaternion
+    extensions\n\u25AA Editor GUI\n  \u25AA Flags Property Drawer\n\u25AA Scriptable
+    Settings (serialized project settings)\n\u25AA Conditional Compilation Utility\n\u25AA
+    XR Origin Implementation"
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 2.3.0
+    compatible:
+    - 2.3.0
+    recommended: 2.3.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  keywords:
+  - xr
+  - ar
+  - augmented
+  - reality
+  - utility
+  - utilities
+  - core
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.core-utils@2.3/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.core-utils.git
+    revision: ca388cb73dfca7c7e8c46caba82f4d8adfbc82d0
+    path: 
+  unityLifecycle:
+    version: 2.3.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  fingerprint: 
+- packageId: com.unity.xr.legacyinputhelpers@2.1.11
+  testable: 0
+  isDirectDependency: 0
+  version: 2.1.11
+  source: 1
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.11
+  assetPath: Packages/com.unity.xr.legacyinputhelpers
+  name: com.unity.xr.legacyinputhelpers
+  displayName: XR Legacy Input Helpers
+  author:
+    name: 
+    email: 
+    url: 
+  category: XR
+  type: 
+  description: This package includes the tracked pose driver for the legacy input
+    system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
+    Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to
+    track input devices, the XR Bindings Seeding Tool adds a menu item under the
+    'Assets' menu which populates the Input Asset with Unity's crossplatform Input
+    Bindings
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    - 1.0.2
+    - 1.0.3
+    - 1.3.1
+    - 1.3.2
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.11
+    - 2.0.1
+    - 2.0.2
+    - 2.0.4
+    - 2.0.6
+    - 2.0.8
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.6
+    - 2.1.7
+    - 2.1.8
+    - 2.1.9
+    - 2.1.10
+    - 2.1.11
+    - 2.1.12
+    compatible:
+    - 2.1.10
+    - 2.1.11
+    - 2.1.12
+    recommended: 2.1.12
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.vr
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  keywords:
+  - TPD
+  - Tracked Pose Driver
+  - XR
+  - Input
+  - Helpers
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638627703211970000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.xr.legacyinputhelpers@2.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
+    revision: 43a3dc5e306cc961f9f0121a31ec3bd1285cf1a7
+    path: 
+  unityLifecycle:
+    version: 2.1.10
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+  fingerprint: 
 - packageId: com.unity.mathematics@1.2.6
   testable: 0
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.mathematics@1.2.6
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.mathematics@1.2.6
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -3156,16 +4059,36 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: Unity's C# SIMD math library providing vector types and math functions
     with a shader like syntax.
   status: 0
   errors: []
   versions:
     all:
+    - 0.0.12-preview.2
+    - 0.0.12-preview.5
+    - 0.0.12-preview.8
+    - 0.0.12-preview.10
+    - 0.0.12-preview.11
+    - 0.0.12-preview.13
+    - 0.0.12-preview.17
+    - 0.0.12-preview.19
+    - 0.0.12-preview.20
+    - 1.0.0-preview.1
+    - 1.0.1
+    - 1.1.0-preview.1
+    - 1.1.0
+    - 1.2.1
+    - 1.2.4
+    - 1.2.5
     - 1.2.6
+    - 1.3.1
+    - 1.3.2
     compatible:
     - 1.2.6
+    - 1.3.1
+    - 1.3.2
     recommended: 1.2.6
     deprecated: []
   dependencies: []
@@ -3182,7 +4105,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637841876140000000
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -3204,7 +4127,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.8.17
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.burst@1.8.17
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.burst@1.8.17
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -3213,17 +4136,162 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: assets
   description: Burst is a compiler that translates from IL/.NET bytecode to highly
     optimized native code using LLVM.
   status: 0
   errors: []
   versions:
     all:
+    - 0.2.4-preview.5
+    - 0.2.4-preview.7
+    - 0.2.4-preview.11
+    - 0.2.4-preview.12
+    - 0.2.4-preview.13
+    - 0.2.4-preview.14
+    - 0.2.4-preview.15
+    - 0.2.4-preview.16
+    - 0.2.4-preview.17
+    - 0.2.4-preview.18
+    - 0.2.4-preview.19
+    - 0.2.4-preview.20
+    - 0.2.4-preview.21
+    - 0.2.4-preview.22
+    - 0.2.4-preview.23
+    - 0.2.4-preview.24
+    - 0.2.4-preview.25
+    - 0.2.4-preview.30
+    - 0.2.4-preview.31
+    - 0.2.4-preview.33
+    - 0.2.4-preview.34
+    - 0.2.4-preview.37
+    - 0.2.4-preview.41
+    - 0.2.4-preview.45
+    - 0.2.4-preview.48
+    - 0.2.4-preview.50
+    - 1.1.0-preview.2
+    - 1.1.0-preview.3
+    - 1.1.0-preview.4
+    - 1.1.1
+    - 1.1.2
+    - 1.1.3-preview.3
+    - 1.2.0-preview.1
+    - 1.2.0-preview.5
+    - 1.2.0-preview.6
+    - 1.2.0-preview.8
+    - 1.2.0-preview.9
+    - 1.2.0-preview.10
+    - 1.2.0-preview.11
+    - 1.2.0-preview.12
+    - 1.2.0
+    - 1.2.1
+    - 1.2.2
+    - 1.2.3
+    - 1.3.0-preview.1
+    - 1.3.0-preview.2
+    - 1.3.0-preview.3
+    - 1.3.0-preview.4
+    - 1.3.0-preview.5
+    - 1.3.0-preview.6
+    - 1.3.0-preview.7
+    - 1.3.0-preview.8
+    - 1.3.0-preview.9
+    - 1.3.0-preview.10
+    - 1.3.0-preview.11
+    - 1.3.0-preview.12
+    - 1.3.0-preview.13
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.9
+    - 1.4.0-pre.1
+    - 1.4.0-preview.1
+    - 1.4.0-preview.2
+    - 1.4.0-preview.3
+    - 1.4.0-preview.4
+    - 1.4.0-preview.5
+    - 1.4.1-pre.1
+    - 1.4.1-pre.2
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.4.4-preview.1
+    - 1.4.4-preview.2
+    - 1.4.4
+    - 1.4.5
+    - 1.4.6
+    - 1.4.7
+    - 1.4.8
+    - 1.4.9
+    - 1.4.11
+    - 1.5.0-pre.3
+    - 1.5.0-pre.4
+    - 1.5.0-pre.5
+    - 1.5.0
+    - 1.5.1
+    - 1.5.2
+    - 1.5.3
+    - 1.5.4
+    - 1.5.5
+    - 1.5.6-preview.1
+    - 1.5.6
+    - 1.6.0-pre.2
+    - 1.6.0-pre.3
+    - 1.6.0-pre.4
+    - 1.6.0
+    - 1.6.1
+    - 1.6.2
+    - 1.6.3
+    - 1.6.4
+    - 1.6.5
+    - 1.6.6
+    - 1.7.0-pre.1
+    - 1.7.0
+    - 1.7.1
+    - 1.7.2
+    - 1.7.3
+    - 1.7.4
+    - 1.8.0-pre.1
+    - 1.8.0-pre.2
+    - 1.8.0
+    - 1.8.1
+    - 1.8.2
+    - 1.8.3
+    - 1.8.4
+    - 1.8.7
+    - 1.8.8
+    - 1.8.9
+    - 1.8.10
+    - 1.8.11
+    - 1.8.12
+    - 1.8.13
+    - 1.8.14
+    - 1.8.15
+    - 1.8.16
     - 1.8.17
+    - 1.8.18
+    - 1.8.19
+    - 1.8.20
+    - 1.8.21
+    - 1.8.22
+    - 1.8.23
+    - 1.8.24
     compatible:
     - 1.8.17
-    recommended: 1.8.17
+    - 1.8.18
+    - 1.8.19
+    - 1.8.20
+    - 1.8.21
+    - 1.8.22
+    - 1.8.23
+    - 1.8.24
+    recommended: 1.8.24
     deprecated: []
   dependencies:
   - name: com.unity.mathematics
@@ -3246,7 +4314,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 638573293750000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.burst@1.8/manual/index.html
   hasRepository: 1
   repository:
@@ -3268,7 +4336,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 14.0.11
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.render-pipelines.core@14.0.11
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.render-pipelines.core@14.0.11
   assetPath: Packages/com.unity.render-pipelines.core
   name: com.unity.render-pipelines.core
   displayName: Core RP Library
@@ -3289,6 +4357,104 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 0.1.21
+    - 0.1.27
+    - 0.1.28
+    - 1.0.0-beta
+    - 1.0.1-beta
+    - 1.1.1-preview
+    - 1.1.2-preview
+    - 1.1.4-preview
+    - 1.1.5-preview
+    - 1.1.8-preview
+    - 1.1.10-preview
+    - 1.1.11-preview
+    - 2.0.1-preview
+    - 2.0.3-preview
+    - 2.0.4-preview
+    - 2.0.4-preview.1
+    - 2.0.5-preview
+    - 2.0.6-preview
+    - 2.0.7-preview
+    - 2.0.8-preview
+    - 3.0.0-preview
+    - 3.1.0-preview
+    - 3.3.0-preview
+    - 4.0.0-preview
+    - 4.0.1-preview
+    - 4.1.0-preview
+    - 4.2.0-preview
+    - 4.3.0-preview
+    - 4.6.0-preview
+    - 4.8.0-preview
+    - 4.9.0-preview
+    - 4.10.0-preview
+    - 5.0.0-preview
+    - 5.1.0
+    - 5.2.0
+    - 5.2.1
+    - 5.2.2
+    - 5.2.3
+    - 5.3.1
+    - 5.6.1
+    - 5.7.2
+    - 5.8.2
+    - 5.9.0
+    - 5.10.0
+    - 5.13.0
+    - 5.16.1
+    - 6.5.2
+    - 6.5.3
+    - 6.7.1
+    - 6.9.0
+    - 6.9.1
+    - 6.9.2
+    - 7.0.0
+    - 7.0.1
+    - 7.1.1
+    - 7.1.2
+    - 7.1.5
+    - 7.1.6
+    - 7.1.7
+    - 7.1.8
+    - 7.2.0
+    - 7.2.1
+    - 7.3.1
+    - 7.4.1
+    - 7.4.2
+    - 7.4.3
+    - 7.5.1
+    - 7.5.2
+    - 7.5.3
+    - 7.6.0
+    - 7.7.0
+    - 7.7.1
+    - 8.0.1
+    - 8.1.0
+    - 8.2.0
+    - 8.3.1
+    - 9.0.0-preview.13
+    - 9.0.0-preview.35
+    - 9.0.0-preview.38
+    - 9.0.0-preview.60
+    - 9.0.0-preview.77
+    - 10.0.0-preview.30
+    - 10.1.0
+    - 10.2.0
+    - 10.2.1
+    - 10.2.2
+    - 10.3.1
+    - 10.3.2
+    - 10.4.0
+    - 10.5.0
+    - 10.5.1
+    - 10.6.0
+    - 10.7.0
+    - 10.8.0
+    - 10.8.1
+    - 10.9.0
+    - 10.10.0
+    - 10.10.1
     - 14.0.11
     compatible:
     - 14.0.11
@@ -3349,7 +4515,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 14.0.11
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.shadergraph@14.0.11
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.shadergraph@14.0.11
   assetPath: Packages/com.unity.shadergraph
   name: com.unity.shadergraph
   displayName: Shader Graph
@@ -3368,6 +4534,103 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 0.1.8
+    - 0.1.9
+    - 0.1.17
+    - 1.0.0-beta
+    - 1.1.1-preview
+    - 1.1.2-preview
+    - 1.1.3-preview
+    - 1.1.4-preview
+    - 1.1.5-preview
+    - 1.1.6-preview
+    - 1.1.8-preview
+    - 1.1.9-preview
+    - 2.0.1-preview
+    - 2.0.3-preview
+    - 2.0.4-preview
+    - 2.0.4-preview.1
+    - 2.0.5-preview
+    - 2.0.6-preview
+    - 2.0.7-preview
+    - 2.0.8-preview
+    - 3.0.0-preview
+    - 3.1.0-preview
+    - 3.3.0-preview
+    - 4.0.0-preview
+    - 4.0.1-preview
+    - 4.1.0-preview
+    - 4.2.0-preview
+    - 4.3.0-preview
+    - 4.6.0-preview
+    - 4.8.0-preview
+    - 4.9.0-preview
+    - 4.10.0-preview
+    - 5.0.0-preview
+    - 5.1.0
+    - 5.2.0
+    - 5.2.1
+    - 5.2.2
+    - 5.2.3
+    - 5.3.1
+    - 5.6.1
+    - 5.7.2
+    - 5.8.2
+    - 5.9.0
+    - 5.10.0
+    - 5.13.0
+    - 5.16.1
+    - 6.5.2
+    - 6.5.3
+    - 6.7.1
+    - 6.9.0
+    - 6.9.1
+    - 6.9.2
+    - 7.0.0
+    - 7.0.1
+    - 7.1.1
+    - 7.1.2
+    - 7.1.5
+    - 7.1.6
+    - 7.1.7
+    - 7.1.8
+    - 7.2.0
+    - 7.2.1
+    - 7.3.1
+    - 7.4.1
+    - 7.4.2
+    - 7.4.3
+    - 7.5.1
+    - 7.5.2
+    - 7.5.3
+    - 7.6.0
+    - 7.7.0
+    - 7.7.1
+    - 8.0.1
+    - 8.1.0
+    - 8.2.0
+    - 8.3.1
+    - 9.0.0-preview.14
+    - 9.0.0-preview.34
+    - 9.0.0-preview.55
+    - 9.0.0-preview.72
+    - 10.0.0-preview.27
+    - 10.1.0
+    - 10.2.0
+    - 10.2.1
+    - 10.2.2
+    - 10.3.1
+    - 10.3.2
+    - 10.4.0
+    - 10.5.0
+    - 10.5.1
+    - 10.6.0
+    - 10.7.0
+    - 10.8.0
+    - 10.8.1
+    - 10.9.0
+    - 10.10.0
+    - 10.10.1
     - 14.0.11
     compatible:
     - 14.0.11
@@ -3428,7 +4691,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 14.0.10
   source: 2
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.render-pipelines.universal-config@14.0.10
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.render-pipelines.universal-config@14.0.10
   assetPath: Packages/com.unity.render-pipelines.universal-config
   name: com.unity.render-pipelines.universal-config
   displayName: Universal RP Config
@@ -3499,7 +4762,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.22
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.ide.visualstudio@2.0.22
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.ide.visualstudio@2.0.22
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -3591,7 +4854,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 3.0.31
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.ide.rider@3.0.31
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.ide.rider@3.0.31
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -3702,7 +4965,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.5
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.ide.vscode@1.2.5
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -3771,7 +5034,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.editorcoroutines@1.0.0
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.editorcoroutines@1.0.0
   assetPath: Packages/com.unity.editorcoroutines
   name: com.unity.editorcoroutines
   displayName: Editor Coroutines
@@ -3839,7 +5102,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.2
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.performance.profile-analyzer@1.2.2
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.performance.profile-analyzer@1.2.2
   assetPath: Packages/com.unity.performance.profile-analyzer
   name: com.unity.performance.profile-analyzer
   displayName: Profile Analyzer
@@ -3913,7 +5176,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.1.33
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.test-framework@1.1.33
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.test-framework@1.1.33
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -4055,7 +5318,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.testtools.codecoverage@1.2.6
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.testtools.codecoverage@1.2.6
   assetPath: Packages/com.unity.testtools.codecoverage
   name: com.unity.testtools.codecoverage
   displayName: Code Coverage
@@ -4162,7 +5425,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.2.1
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.animation.rigging@1.2.1
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.animation.rigging@1.2.1
   assetPath: Packages/com.unity.animation.rigging
   name: com.unity.animation.rigging
   displayName: Animation Rigging
@@ -4171,15 +5434,33 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Animation
-  type: 
+  type: asset
   description: Animation Rigging toolkit using Unity's Animation C# Jobs
   status: 0
   errors: []
   versions:
     all:
+    - 0.1.2-preview
+    - 0.1.4-preview
+    - 0.2.1-preview
+    - 0.2.2-preview
+    - 0.2.3-preview
+    - 0.2.5-preview
+    - 0.2.6-preview
+    - 0.2.7-preview
+    - 0.3.2-preview
+    - 0.3.3-preview
+    - 0.3.4-preview
+    - 1.0.2
+    - 1.0.3
+    - 1.1.0
+    - 1.1.1
+    - 1.2.0
     - 1.2.1
+    - 1.3.0
     compatible:
     - 1.2.1
+    - 1.3.0
     recommended: 1.2.1
     deprecated: []
   dependencies:
@@ -4214,7 +5495,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 638091318490000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.animation.rigging@1.2/manual/index.html
   hasRepository: 1
   repository:
@@ -4236,7 +5517,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.2.1
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.formats.fbx@4.2.1
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.formats.fbx@4.2.1
   assetPath: Packages/com.unity.formats.fbx
   name: com.unity.formats.fbx
   displayName: FBX Exporter
@@ -4245,7 +5526,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: "The Unity FBX Exporter package makes it easy to send geometry and
     animation to any application that supports the FBX format and send them back
     to Unity with minimal effort.\n\nIn particular, this round-trip workflow enables
@@ -4257,17 +5538,57 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 2.0.1-preview.2
+    - 2.0.1-preview.3
+    - 2.0.1-preview.4
+    - 2.0.1-preview.5
+    - 2.0.1-preview.11
+    - 2.0.2-preview.1
+    - 2.0.3-preview.3
+    - 3.0.0-preview.2
+    - 3.0.1-preview.2
+    - 3.1.0-preview.1
+    - 3.2.0-preview.2
+    - 3.2.1-preview.2
+    - 4.0.0-pre.1
+    - 4.0.0-pre.4
+    - 4.0.1
+    - 4.1.0-pre.2
+    - 4.1.0
+    - 4.1.1
+    - 4.1.2
+    - 4.1.3
+    - 4.2.0-pre.1
+    - 4.2.0
     - 4.2.1
+    - 5.0.0-pre.1
+    - 5.0.0
+    - 5.1.0-pre.1
+    - 5.1.0
+    - 5.1.1
+    - 5.1.2
+    - 5.1.3
+    - 5.1.4
     compatible:
     - 4.2.1
+    - 5.0.0-pre.1
+    - 5.0.0
+    - 5.1.0-pre.1
+    - 5.1.0
+    - 5.1.1
+    - 5.1.2
+    - 5.1.3
+    - 5.1.4
     recommended: 4.2.1
     deprecated: []
   dependencies:
-  - name: com.unity.timeline
-    version: 1.7.1
   - name: com.autodesk.fbx
     version: 4.2.1
+  - name: com.unity.timeline
+    version: 1.7.1
   resolvedDependencies:
+  - name: com.autodesk.fbx
+    version: 4.2.1
   - name: com.unity.timeline
     version: 1.7.6
   - name: com.unity.modules.audio
@@ -4278,8 +5599,6 @@ m_ResolvedPackages:
     version: 1.0.0
   - name: com.unity.modules.particlesystem
     version: 1.0.0
-  - name: com.autodesk.fbx
-    version: 4.2.1
   keywords:
   - fbx
   - animation
@@ -4296,7 +5615,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 638089453510000000
   documentationUrl: https://docs.unity3d.com/Packages/com.unity.formats.fbx@4.2/manual/index.html
   hasRepository: 1
   repository:
@@ -4318,7 +5637,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.9.2
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.searcher@4.9.2
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.searcher@4.9.2
   assetPath: Packages/com.unity.searcher
   name: com.unity.searcher
   displayName: Searcher
@@ -4327,17 +5646,34 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: General search window for use in the Editor. First target use is for
     GraphView node search.
   status: 0
   errors: []
   versions:
     all:
+    - 4.0.0-preview
+    - 4.0.0
+    - 4.0.7-preview
+    - 4.0.7
+    - 4.0.8-preview
+    - 4.0.9
+    - 4.1.0-preview
+    - 4.1.0
+    - 4.2.0
+    - 4.3.0
+    - 4.3.1
+    - 4.3.2
+    - 4.6.0-preview
+    - 4.7.0-preview
+    - 4.9.1
     - 4.9.2
+    - 4.9.3
     compatible:
     - 4.9.2
-    recommended: 4.9.2
+    - 4.9.3
+    recommended: 4.9.3
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -4354,7 +5690,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637831252240000000
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -4376,7 +5712,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 2.0.1
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.settings-manager@2.0.1
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.settings-manager@2.0.1
   assetPath: Packages/com.unity.settings-manager
   name: com.unity.settings-manager
   displayName: Settings Manager
@@ -4441,7 +5777,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -4513,7 +5849,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 4.2.1
   source: 1
-  resolvedPath: /Users/sinq/UnityApps/UnityAppsRep/csc461-a1/Library/PackageCache/com.autodesk.fbx@4.2.1
+  resolvedPath: C:\Users\xxsta\UnityAppsRep\csc461-a1\Library\PackageCache\com.autodesk.fbx@4.2.1
   assetPath: Packages/com.autodesk.fbx
   name: com.autodesk.fbx
   displayName: Autodesk FBX SDK for Unity
@@ -4522,16 +5858,45 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: "This package provides Unity C# bindings to the Autodesk\xAE FBX\xAE
     SDK."
   status: 0
   errors: []
   versions:
     all:
+    - 2.0.0-preview
+    - 2.0.0-preview.4
+    - 2.0.0-preview.5
+    - 2.0.0-preview.6
+    - 2.0.0-preview.7
+    - 2.0.1-preview.1
+    - 3.0.0-preview.1
+    - 3.0.1-preview.1
+    - 3.1.0-preview.1
+    - 3.1.0-preview.2
+    - 4.0.0-pre.1
+    - 4.0.0-pre.2
+    - 4.0.1
+    - 4.1.0-pre.1
+    - 4.1.0
+    - 4.1.1
+    - 4.1.2
+    - 4.2.0-pre.1
+    - 4.2.0
     - 4.2.1
+    - 5.0.0-pre.1
+    - 5.0.0
+    - 5.1.0-pre.1
+    - 5.1.0
+    - 5.1.1
     compatible:
     - 4.2.1
+    - 5.0.0-pre.1
+    - 5.0.0
+    - 5.1.0-pre.1
+    - 5.1.0
+    - 5.1.1
     recommended: 4.2.1
     deprecated: []
   dependencies: []
@@ -4552,7 +5917,7 @@ m_ResolvedPackages:
     configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 638089453470000000
   documentationUrl: https://docs.unity3d.com/Packages/com.autodesk.fbx@4.2/manual/index.html
   hasRepository: 1
   repository:
